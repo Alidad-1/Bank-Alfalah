@@ -30,7 +30,7 @@ header {
 }
 
 .right-nav {
-    width: 70%;
+    width: 65%;
     display: flex;
     justify-content: space-around;
 }
@@ -250,6 +250,7 @@ marquee{
     margin: 14px;
     color:red;
 }
+
 
 
 
